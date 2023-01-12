@@ -7,7 +7,7 @@ this project made for privacy and user security
 
 ```
 git clone https://github.com/KucingMunafik/likrura.git
-ln -s "$PWD"/cryptr/cryptr.bash /usr/local/bin/likrura
+ln -s "$PWD"/likrura/likrura.bash /usr/local/bin/likrura
 ```
 
 ### Bash tab completion
