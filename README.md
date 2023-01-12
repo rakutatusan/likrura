@@ -9,7 +9,15 @@ this project made for privacy and user security
 git clone https://github.com/KucingMunafik/likrura.git
 ln -s "$PWD"/cryptr/cryptr.bash /usr/local/bin/likrura
 ```
+or, you can install it by downloading the tar.gz package then,unpack it: 
+```
+tar -xz likrura.tar.gz
+```
+when unpacking was done, run the install.sh file
 
+```
+./install.sh
+```
 ### Bash tab completion
 
 Add `tools/likrura-bash-completion.bash` to your tab completion file directory.
