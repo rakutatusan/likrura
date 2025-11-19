@@ -20,9 +20,9 @@ You will be securely prompted for your password each time you encrypt or decrypt
 
 ---
 
-## 🚧 About this Fork
+## 🚧 About this
 
-This is a **forked and updated version** of [rakutatusan/likrura](https://github.com/rakutatusan/likrura), which has been unmaintained for 3 years.  
+This is a **updated version** of [rakutatusan/likrura](https://github.com/rakutatusan/likrura), which has been unmaintained for 3 years.  
 Major improvements:
 - Modernized password handling (no environment variables needed)
 - User-friendly command structure and help
